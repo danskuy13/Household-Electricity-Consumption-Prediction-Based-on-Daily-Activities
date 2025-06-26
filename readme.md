@@ -38,7 +38,7 @@ Dataset disimpan di `data/generated/listrik_rumah.csv`, dan akan digenerate seca
 1. **Clone repositori** ini ke lokal:
 
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/danskuy13/Household-Electricity-Consumption-Prediction-Based-on-Daily-Activities.git
    cd electric-usage-prediction
    ```
 
@@ -85,7 +85,7 @@ Notebook Jupyter digunakan untuk dokumentasi setiap tahapan proyek. Masing-masin
 
 ## ✍️ Author
 
-- Nama: [Isi Nama Anda]
+- Nama: [Dani Ramdani]
 - Tahun: 2025
 
 ---
