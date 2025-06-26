@@ -1,0 +1,501 @@
+aktivitas,perangkat_listrik,waktu_hari,durasi_penggunaan_jam,konsumsi_listrik_kwh
+Menyetrika,AC,Siang,4.6,3.72
+Bermain Komputer,Komputer,Pagi,3.8,1.52
+Mencuci,Komputer,Siang,2.7,1.12
+Bermain Komputer,TV,Siang,7.6,1.52
+Bermain Komputer,Kulkas,Sore,6.2,1.86
+Memasak,Kulkas,Malam,1.6,0.38
+Mencuci,Komputer,Malam,7.0,2.85
+Mencuci,TV,Siang,4.2,0.86
+Mencuci,Kompor Listrik,Sore,7.2,6.53
+Bermain Komputer,Kulkas,Siang,6.5,1.81
+Menyetrika,Kompor Listrik,Siang,3.7,3.43
+Mencuci,Kulkas,Siang,0.7,0.2
+Tidak Ada Aktivitas,Kulkas,Sore,2.5,0.81
+Bermain Komputer,Mesin Cuci,Malam,4.6,2.71
+Memasak,Kulkas,Sore,5.3,1.62
+Menyetrika,AC,Pagi,2.4,1.87
+Tidak Ada Aktivitas,TV,Sore,1.5,0.27
+Tidak Ada Aktivitas,TV,Sore,6.8,1.46
+Memasak,Kompor Listrik,Sore,7.9,7.1
+Menyetrika,Kulkas,Sore,4.4,1.33
+Bermain Komputer,AC,Malam,1.8,1.48
+Menonton TV,Kompor Listrik,Pagi,2.5,2.27
+Menyetrika,Mesin Cuci,Malam,0.6,0.37
+Memasak,Kompor Listrik,Malam,7.4,6.68
+Tidak Ada Aktivitas,Kompor Listrik,Sore,1.4,1.38
+Bermain Komputer,Kulkas,Siang,4.8,1.44
+Menyetrika,Mesin Cuci,Siang,2.6,1.57
+Menonton TV,Kompor Listrik,Malam,4.7,4.28
+Menonton TV,AC,Malam,5.4,4.38
+Mencuci,AC,Sore,6.7,5.42
+Mencuci,TV,Malam,2.0,0.43
+Memasak,Mesin Cuci,Sore,0.6,0.3
+Menyetrika,Mesin Cuci,Siang,1.5,0.98
+Menyetrika,TV,Siang,7.3,1.4
+Tidak Ada Aktivitas,Kompor Listrik,Pagi,7.1,6.41
+Tidak Ada Aktivitas,Mesin Cuci,Siang,5.0,2.96
+Tidak Ada Aktivitas,AC,Malam,5.0,4.0
+Mencuci,AC,Siang,5.5,4.42
+Menyetrika,Kulkas,Sore,1.8,0.56
+Menyetrika,Mesin Cuci,Siang,7.4,4.46
+Menonton TV,Kompor Listrik,Pagi,3.6,3.32
+Mencuci,TV,Siang,3.4,0.7
+Bermain Komputer,TV,Sore,4.4,0.87
+Mencuci,Kompor Listrik,Sore,0.9,0.86
+Bermain Komputer,Komputer,Malam,1.7,0.74
+Menonton TV,Kulkas,Siang,6.0,1.74
+Memasak,TV,Sore,1.1,0.25
+Menyetrika,Mesin Cuci,Pagi,5.0,3.04
+Menonton TV,Kulkas,Malam,2.3,0.68
+Menyetrika,Mesin Cuci,Pagi,3.4,2.11
+Tidak Ada Aktivitas,AC,Siang,2.7,2.15
+Memasak,Kulkas,Siang,3.2,0.97
+Memasak,TV,Siang,5.9,1.17
+Menonton TV,Kulkas,Malam,2.7,0.81
+Memasak,Kulkas,Sore,4.7,1.36
+Bermain Komputer,Kulkas,Malam,4.1,1.16
+Memasak,Komputer,Pagi,5.5,2.28
+Menyetrika,Kulkas,Malam,7.5,2.21
+Menyetrika,Mesin Cuci,Pagi,6.0,3.55
+Menyetrika,AC,Malam,2.1,1.57
+Menyetrika,Kompor Listrik,Sore,0.7,0.6
+Bermain Komputer,Kulkas,Pagi,2.5,0.68
+Mencuci,TV,Siang,5.0,1.08
+Tidak Ada Aktivitas,Kulkas,Siang,0.9,0.32
+Menonton TV,TV,Malam,4.2,0.81
+Menyetrika,Mesin Cuci,Siang,5.0,3.11
+Memasak,TV,Pagi,3.0,0.65
+Menyetrika,Kompor Listrik,Siang,6.3,5.65
+Memasak,AC,Sore,1.3,0.92
+Tidak Ada Aktivitas,TV,Sore,1.1,0.33
+Tidak Ada Aktivitas,TV,Malam,6.0,1.13
+Tidak Ada Aktivitas,AC,Pagi,4.2,3.28
+Memasak,Kompor Listrik,Sore,5.7,5.18
+Menyetrika,Kulkas,Sore,3.8,1.26
+Tidak Ada Aktivitas,TV,Pagi,2.3,0.53
+Bermain Komputer,AC,Siang,6.6,5.31
+Memasak,Mesin Cuci,Siang,6.5,3.93
+Memasak,AC,Malam,5.7,4.6
+Menyetrika,Mesin Cuci,Siang,2.5,1.54
+Memasak,Kompor Listrik,Pagi,4.9,4.42
+Memasak,Kulkas,Sore,3.2,0.97
+Tidak Ada Aktivitas,AC,Siang,1.2,0.96
+Menyetrika,Komputer,Malam,7.4,2.92
+Tidak Ada Aktivitas,TV,Siang,1.5,0.29
+Tidak Ada Aktivitas,Kompor Listrik,Pagi,7.6,6.76
+Menyetrika,AC,Malam,3.8,3.04
+Menonton TV,TV,Siang,1.9,0.33
+Tidak Ada Aktivitas,AC,Malam,4.6,3.62
+Bermain Komputer,Mesin Cuci,Pagi,7.0,4.21
+Bermain Komputer,AC,Sore,6.0,4.87
+Memasak,Komputer,Pagi,6.5,2.65
+Bermain Komputer,AC,Pagi,5.4,4.24
+Memasak,AC,Pagi,5.7,4.51
+Menonton TV,Komputer,Pagi,6.9,2.81
+Menyetrika,Kompor Listrik,Sore,2.4,2.11
+Menyetrika,AC,Sore,4.2,3.35
+Menyetrika,Komputer,Malam,2.2,0.91
+Bermain Komputer,TV,Siang,7.9,1.53
+Menonton TV,Mesin Cuci,Sore,7.6,4.57
+Bermain Komputer,Mesin Cuci,Sore,0.8,0.41
+Bermain Komputer,AC,Siang,5.8,4.61
+Menonton TV,Kompor Listrik,Sore,7.4,6.68
+Menonton TV,Kompor Listrik,Pagi,1.9,1.63
+Menonton TV,TV,Pagi,4.8,0.98
+Menonton TV,AC,Siang,7.4,5.92
+Menyetrika,Mesin Cuci,Malam,0.8,0.51
+Mencuci,Kompor Listrik,Malam,5.7,5.14
+Mencuci,AC,Siang,2.7,2.23
+Menonton TV,Kompor Listrik,Siang,7.4,6.67
+Mencuci,Komputer,Pagi,7.8,3.1
+Mencuci,Kompor Listrik,Malam,7.6,6.85
+Menonton TV,Mesin Cuci,Sore,4.1,2.49
+Mencuci,Kulkas,Pagi,7.0,2.1
+Bermain Komputer,TV,Siang,6.8,1.36
+Memasak,TV,Malam,2.9,0.54
+Memasak,Mesin Cuci,Sore,6.7,3.99
+Menonton TV,Kompor Listrik,Sore,0.8,0.65
+Menyetrika,AC,Pagi,5.0,4.09
+Menonton TV,Kompor Listrik,Malam,2.2,1.92
+Menyetrika,Mesin Cuci,Malam,1.4,0.81
+Memasak,TV,Siang,1.1,0.18
+Menonton TV,Kompor Listrik,Malam,5.7,5.17
+Tidak Ada Aktivitas,TV,Malam,3.0,0.59
+Bermain Komputer,AC,Pagi,5.9,4.78
+Mencuci,TV,Malam,1.0,0.17
+Menyetrika,TV,Sore,2.9,0.59
+Tidak Ada Aktivitas,Kulkas,Pagi,4.5,1.31
+Mencuci,Kulkas,Pagi,6.4,2.03
+Mencuci,Komputer,Siang,2.9,1.1
+Menonton TV,Kulkas,Malam,5.2,1.58
+Mencuci,TV,Siang,7.1,1.45
+Bermain Komputer,Mesin Cuci,Sore,5.1,3.08
+Tidak Ada Aktivitas,TV,Pagi,2.2,0.43
+Mencuci,Mesin Cuci,Pagi,0.7,0.41
+Menonton TV,Mesin Cuci,Pagi,7.0,4.2
+Bermain Komputer,Kulkas,Sore,0.7,0.2
+Memasak,Kompor Listrik,Sore,7.1,6.44
+Tidak Ada Aktivitas,AC,Siang,4.5,3.71
+Mencuci,Kulkas,Siang,7.5,2.22
+Menonton TV,Kulkas,Siang,6.5,1.88
+Memasak,Kompor Listrik,Malam,8.0,7.2
+Memasak,AC,Pagi,3.1,2.61
+Menyetrika,TV,Pagi,6.3,1.22
+Bermain Komputer,Komputer,Siang,3.5,1.48
+Mencuci,Komputer,Pagi,4.1,1.72
+Menonton TV,TV,Siang,5.2,1.01
+Menyetrika,Kulkas,Malam,7.1,2.16
+Bermain Komputer,AC,Malam,7.9,6.4
+Menyetrika,Kulkas,Sore,6.3,1.87
+Tidak Ada Aktivitas,Mesin Cuci,Malam,3.6,2.15
+Bermain Komputer,Kulkas,Siang,3.7,1.08
+Bermain Komputer,Kulkas,Malam,6.0,1.75
+Mencuci,TV,Sore,2.3,0.43
+Bermain Komputer,TV,Pagi,1.3,0.2
+Menyetrika,TV,Siang,3.2,0.64
+Bermain Komputer,Komputer,Pagi,2.7,1.04
+Mencuci,Mesin Cuci,Sore,2.7,1.63
+Mencuci,TV,Sore,2.3,0.38
+Tidak Ada Aktivitas,AC,Sore,0.8,0.66
+Menyetrika,Komputer,Pagi,0.6,0.28
+Memasak,Kompor Listrik,Pagi,7.9,7.01
+Memasak,AC,Pagi,3.7,2.98
+Bermain Komputer,AC,Pagi,3.4,2.78
+Tidak Ada Aktivitas,TV,Sore,5.6,1.06
+Menonton TV,Kompor Listrik,Sore,2.1,1.97
+Bermain Komputer,Kompor Listrik,Siang,7.6,6.86
+Tidak Ada Aktivitas,Komputer,Siang,6.4,2.52
+Menyetrika,Kompor Listrik,Pagi,1.2,1.08
+Menyetrika,Mesin Cuci,Malam,3.6,2.19
+Menyetrika,TV,Malam,7.1,1.42
+Menyetrika,Kompor Listrik,Sore,7.6,6.87
+Menyetrika,Komputer,Sore,4.0,1.55
+Tidak Ada Aktivitas,Mesin Cuci,Sore,5.1,3.07
+Tidak Ada Aktivitas,Kulkas,Siang,1.8,0.47
+Mencuci,Kulkas,Siang,7.9,2.36
+Memasak,Mesin Cuci,Sore,2.2,1.27
+Menyetrika,Komputer,Sore,7.6,3.0
+Menonton TV,Mesin Cuci,Sore,5.4,3.3
+Tidak Ada Aktivitas,TV,Malam,5.1,1.07
+Menonton TV,TV,Siang,4.3,0.89
+Menonton TV,Kulkas,Malam,2.2,0.61
+Menonton TV,Kompor Listrik,Malam,1.8,1.6
+Mencuci,Komputer,Sore,2.2,0.94
+Tidak Ada Aktivitas,Kulkas,Sore,1.9,0.58
+Menonton TV,Kompor Listrik,Pagi,6.3,5.79
+Menyetrika,Kompor Listrik,Pagi,3.1,2.81
+Bermain Komputer,TV,Malam,0.9,0.19
+Menonton TV,AC,Siang,7.8,6.22
+Mencuci,AC,Sore,7.1,5.69
+Tidak Ada Aktivitas,Mesin Cuci,Sore,7.5,4.49
+Mencuci,TV,Malam,8.0,1.64
+Menonton TV,Kompor Listrik,Pagi,1.8,1.67
+Tidak Ada Aktivitas,Komputer,Siang,3.5,1.36
+Bermain Komputer,AC,Pagi,6.2,4.89
+Menonton TV,Kompor Listrik,Pagi,5.7,5.04
+Mencuci,AC,Pagi,1.7,1.39
+Memasak,AC,Pagi,6.6,5.22
+Menyetrika,AC,Sore,2.2,1.65
+Mencuci,Komputer,Sore,2.2,0.9
+Tidak Ada Aktivitas,TV,Pagi,4.5,1.02
+Menonton TV,Komputer,Siang,4.9,1.96
+Menyetrika,Kulkas,Malam,4.9,1.51
+Menonton TV,Kompor Listrik,Siang,1.2,1.08
+Tidak Ada Aktivitas,TV,Siang,7.1,1.42
+Menonton TV,TV,Siang,2.5,0.55
+Memasak,TV,Pagi,1.5,0.29
+Menyetrika,TV,Sore,7.2,1.45
+Menyetrika,Komputer,Siang,7.7,3.1
+Tidak Ada Aktivitas,TV,Pagi,7.0,1.37
+Memasak,Mesin Cuci,Siang,6.6,4.01
+Mencuci,Kompor Listrik,Siang,5.4,4.85
+Menonton TV,TV,Pagi,4.6,0.88
+Bermain Komputer,Kompor Listrik,Sore,1.2,1.11
+Menonton TV,Mesin Cuci,Sore,3.6,2.12
+Menonton TV,Mesin Cuci,Malam,3.3,1.98
+Mencuci,Kompor Listrik,Pagi,2.4,2.16
+Menonton TV,AC,Malam,5.9,4.77
+Memasak,Kulkas,Malam,4.2,1.28
+Memasak,AC,Malam,1.1,0.88
+Menyetrika,AC,Sore,2.2,1.8
+Tidak Ada Aktivitas,Komputer,Pagi,5.6,2.31
+Bermain Komputer,AC,Malam,1.1,0.91
+Menonton TV,TV,Pagi,6.9,1.38
+Menonton TV,Komputer,Pagi,4.2,1.61
+Mencuci,Komputer,Sore,4.1,1.59
+Tidak Ada Aktivitas,Mesin Cuci,Malam,4.9,2.92
+Memasak,AC,Malam,6.7,5.33
+Bermain Komputer,Mesin Cuci,Pagi,3.1,1.85
+Menyetrika,Kompor Listrik,Siang,5.6,5.04
+Memasak,Kulkas,Sore,4.7,1.44
+Tidak Ada Aktivitas,Komputer,Sore,2.5,1.0
+Menyetrika,Kompor Listrik,Sore,7.1,6.41
+Mencuci,Kompor Listrik,Sore,6.5,5.85
+Mencuci,TV,Malam,5.4,0.98
+Menonton TV,Kulkas,Malam,6.9,2.02
+Tidak Ada Aktivitas,Kompor Listrik,Siang,7.0,6.29
+Bermain Komputer,Kompor Listrik,Sore,5.8,5.16
+Menyetrika,Kulkas,Sore,6.8,2.07
+Memasak,Kulkas,Pagi,5.7,1.79
+Tidak Ada Aktivitas,Kompor Listrik,Malam,5.6,5.1
+Tidak Ada Aktivitas,Kulkas,Sore,5.1,1.52
+Mencuci,Kompor Listrik,Siang,6.1,5.56
+Menonton TV,Kompor Listrik,Siang,1.7,1.54
+Menonton TV,TV,Malam,7.1,1.4
+Menyetrika,AC,Siang,7.0,5.57
+Mencuci,Kompor Listrik,Siang,0.7,0.61
+Tidak Ada Aktivitas,Mesin Cuci,Malam,6.7,4.0
+Bermain Komputer,Komputer,Sore,1.5,0.61
+Mencuci,AC,Sore,3.0,2.41
+Menyetrika,AC,Siang,6.1,4.88
+Menyetrika,AC,Siang,1.7,1.38
+Mencuci,TV,Sore,6.6,1.38
+Menyetrika,Kompor Listrik,Malam,6.7,6.08
+Mencuci,TV,Siang,4.3,0.79
+Memasak,Kompor Listrik,Pagi,0.5,0.32
+Mencuci,TV,Malam,2.7,0.59
+Mencuci,TV,Siang,5.1,0.95
+Menyetrika,Komputer,Siang,7.9,3.15
+Menyetrika,Mesin Cuci,Pagi,5.2,3.06
+Menonton TV,TV,Pagi,2.4,0.39
+Menonton TV,Komputer,Sore,5.3,2.15
+Memasak,Kulkas,Malam,4.5,1.39
+Menonton TV,Mesin Cuci,Malam,6.3,3.75
+Mencuci,TV,Sore,1.3,0.13
+Menyetrika,AC,Malam,6.2,4.93
+Menonton TV,Kulkas,Malam,4.6,1.4
+Menonton TV,Kulkas,Malam,7.7,2.24
+Memasak,Komputer,Malam,3.1,1.25
+Tidak Ada Aktivitas,Kulkas,Malam,5.2,1.56
+Memasak,Mesin Cuci,Pagi,7.5,4.53
+Mencuci,TV,Malam,1.3,0.27
+Menyetrika,TV,Pagi,7.5,1.45
+Memasak,AC,Malam,5.7,4.62
+Menonton TV,Komputer,Sore,1.0,0.39
+Menyetrika,AC,Siang,2.8,2.24
+Menyetrika,Kulkas,Pagi,5.8,1.69
+Menonton TV,AC,Malam,1.0,0.78
+Memasak,Mesin Cuci,Sore,4.9,2.9
+Menonton TV,TV,Siang,3.1,0.61
+Tidak Ada Aktivitas,Kulkas,Pagi,5.2,1.65
+Menyetrika,AC,Siang,0.8,0.57
+Bermain Komputer,Komputer,Sore,7.0,2.72
+Bermain Komputer,Mesin Cuci,Pagi,7.8,4.75
+Mencuci,Mesin Cuci,Siang,7.8,4.67
+Menonton TV,AC,Malam,6.1,4.85
+Menonton TV,TV,Pagi,1.5,0.35
+Mencuci,AC,Siang,6.2,4.93
+Mencuci,Kulkas,Sore,0.7,0.3
+Mencuci,AC,Sore,0.7,0.59
+Menyetrika,Mesin Cuci,Pagi,2.9,1.72
+Tidak Ada Aktivitas,AC,Siang,4.2,3.47
+Menonton TV,TV,Pagi,6.3,1.23
+Menyetrika,Komputer,Pagi,5.6,2.28
+Mencuci,Kompor Listrik,Siang,3.8,3.43
+Menonton TV,AC,Siang,2.6,2.15
+Menyetrika,TV,Malam,8.0,1.68
+Tidak Ada Aktivitas,TV,Siang,3.7,0.74
+Menyetrika,Komputer,Sore,3.9,1.52
+Tidak Ada Aktivitas,Mesin Cuci,Pagi,1.7,1.04
+Mencuci,TV,Pagi,6.5,1.27
+Tidak Ada Aktivitas,TV,Sore,5.7,1.24
+Menonton TV,TV,Siang,2.2,0.45
+Mencuci,TV,Sore,1.1,0.2
+Menonton TV,Kulkas,Sore,5.6,1.69
+Bermain Komputer,Kulkas,Malam,5.4,1.55
+Memasak,Mesin Cuci,Sore,2.5,1.45
+Tidak Ada Aktivitas,AC,Pagi,7.6,6.14
+Memasak,TV,Sore,1.6,0.29
+Memasak,Komputer,Pagi,3.7,1.43
+Tidak Ada Aktivitas,AC,Pagi,7.6,6.11
+Mencuci,Komputer,Pagi,3.6,1.5
+Bermain Komputer,AC,Siang,5.3,4.28
+Menonton TV,Mesin Cuci,Malam,3.5,2.15
+Menyetrika,TV,Pagi,2.6,0.48
+Menonton TV,TV,Pagi,7.9,1.51
+Menyetrika,Kompor Listrik,Siang,3.6,3.32
+Menonton TV,Komputer,Pagi,7.2,2.86
+Tidak Ada Aktivitas,AC,Sore,2.2,1.75
+Bermain Komputer,AC,Sore,2.1,1.75
+Menyetrika,Kulkas,Malam,0.7,0.24
+Mencuci,Kompor Listrik,Pagi,5.4,4.88
+Menonton TV,Kulkas,Siang,3.3,1.1
+Menonton TV,Kulkas,Sore,7.0,2.07
+Menyetrika,Kulkas,Siang,4.0,1.25
+Mencuci,Komputer,Siang,7.8,3.12
+Mencuci,Komputer,Sore,1.9,0.77
+Tidak Ada Aktivitas,Mesin Cuci,Siang,7.0,4.28
+Tidak Ada Aktivitas,Mesin Cuci,Sore,6.3,3.81
+Tidak Ada Aktivitas,Kulkas,Siang,6.3,1.92
+Tidak Ada Aktivitas,Kompor Listrik,Sore,6.8,6.17
+Tidak Ada Aktivitas,AC,Pagi,6.2,4.94
+Tidak Ada Aktivitas,Komputer,Malam,5.2,2.04
+Bermain Komputer,Kompor Listrik,Sore,1.5,1.3
+Mencuci,TV,Sore,0.7,0.04
+Tidak Ada Aktivitas,Komputer,Malam,7.4,3.06
+Mencuci,Komputer,Sore,5.1,1.98
+Mencuci,Mesin Cuci,Sore,6.5,3.89
+Memasak,AC,Siang,4.1,3.27
+Bermain Komputer,AC,Malam,1.4,1.14
+Tidak Ada Aktivitas,TV,Pagi,1.4,0.32
+Menonton TV,TV,Sore,5.6,1.16
+Menyetrika,Komputer,Malam,3.7,1.45
+Menonton TV,Kulkas,Siang,2.0,0.59
+Bermain Komputer,Mesin Cuci,Pagi,4.2,2.53
+Menyetrika,Mesin Cuci,Malam,1.0,0.59
+Bermain Komputer,Komputer,Pagi,4.9,2.04
+Mencuci,Kompor Listrik,Pagi,2.5,2.27
+Menyetrika,Kulkas,Pagi,6.5,1.99
+Mencuci,Komputer,Sore,2.8,1.15
+Menonton TV,Kulkas,Sore,3.9,1.23
+Menonton TV,Kulkas,Siang,0.6,0.19
+Menyetrika,Kulkas,Siang,1.0,0.24
+Menyetrika,Komputer,Malam,3.4,1.38
+Tidak Ada Aktivitas,Mesin Cuci,Siang,4.1,2.43
+Bermain Komputer,Mesin Cuci,Pagi,5.0,2.97
+Tidak Ada Aktivitas,Kulkas,Pagi,2.7,0.84
+Bermain Komputer,Kompor Listrik,Sore,5.7,5.19
+Tidak Ada Aktivitas,AC,Pagi,7.0,5.6
+Mencuci,Komputer,Malam,6.3,2.54
+Menyetrika,AC,Pagi,0.8,0.73
+Menonton TV,Kompor Listrik,Pagi,4.1,3.7
+Bermain Komputer,Komputer,Malam,1.3,0.65
+Bermain Komputer,Kulkas,Siang,2.3,0.72
+Menonton TV,Mesin Cuci,Siang,7.9,4.65
+Tidak Ada Aktivitas,AC,Malam,1.6,1.32
+Bermain Komputer,TV,Sore,4.2,0.86
+Mencuci,TV,Pagi,5.1,1.08
+Menyetrika,Kompor Listrik,Malam,5.8,5.25
+Menonton TV,Kulkas,Pagi,4.7,1.4
+Menyetrika,AC,Sore,0.6,0.42
+Bermain Komputer,Kulkas,Pagi,2.9,0.86
+Bermain Komputer,AC,Malam,4.4,3.48
+Menonton TV,Kompor Listrik,Pagi,1.2,1.05
+Mencuci,Kompor Listrik,Siang,3.1,2.82
+Memasak,TV,Sore,0.7,0.22
+Menonton TV,Kulkas,Sore,1.1,0.35
+Memasak,Komputer,Sore,3.5,1.34
+Tidak Ada Aktivitas,TV,Malam,1.5,0.32
+Memasak,Kulkas,Sore,4.8,1.5
+Mencuci,TV,Siang,5.7,1.11
+Tidak Ada Aktivitas,Komputer,Malam,6.5,2.59
+Memasak,Mesin Cuci,Siang,2.0,1.2
+Tidak Ada Aktivitas,Mesin Cuci,Pagi,1.8,1.04
+Memasak,Mesin Cuci,Pagi,1.3,0.81
+Mencuci,Mesin Cuci,Pagi,5.3,3.17
+Memasak,AC,Pagi,5.8,4.66
+Memasak,Mesin Cuci,Siang,0.7,0.38
+Memasak,Komputer,Malam,7.5,2.98
+Menonton TV,Kompor Listrik,Malam,0.9,0.85
+Menonton TV,Kompor Listrik,Sore,4.6,4.12
+Menonton TV,AC,Siang,5.8,4.73
+Mencuci,Mesin Cuci,Pagi,7.0,4.18
+Tidak Ada Aktivitas,Mesin Cuci,Siang,5.9,3.55
+Bermain Komputer,Mesin Cuci,Sore,6.5,3.95
+Memasak,TV,Sore,3.0,0.53
+Memasak,Kulkas,Siang,6.6,1.89
+Mencuci,TV,Siang,1.1,0.14
+Memasak,Kulkas,Siang,7.2,2.22
+Menonton TV,Mesin Cuci,Malam,4.6,2.73
+Bermain Komputer,Mesin Cuci,Pagi,6.6,4.09
+Menyetrika,TV,Siang,3.9,0.75
+Memasak,TV,Siang,5.3,1.07
+Menonton TV,Kulkas,Siang,4.4,1.4
+Menyetrika,Kompor Listrik,Sore,6.0,5.5
+Bermain Komputer,Kulkas,Sore,1.1,0.43
+Menyetrika,TV,Malam,1.0,0.26
+Menonton TV,Komputer,Pagi,2.4,1.01
+Tidak Ada Aktivitas,TV,Malam,1.7,0.37
+Tidak Ada Aktivitas,Komputer,Pagi,7.0,2.84
+Menyetrika,AC,Sore,2.1,1.65
+Mencuci,TV,Sore,7.8,1.52
+Menyetrika,AC,Sore,3.0,2.4
+Memasak,Kompor Listrik,Malam,1.9,1.7
+Memasak,Kulkas,Siang,6.4,1.9
+Tidak Ada Aktivitas,Komputer,Siang,5.4,2.19
+Mencuci,Kulkas,Sore,4.2,1.31
+Menonton TV,AC,Siang,4.7,3.76
+Memasak,Komputer,Siang,5.9,2.43
+Tidak Ada Aktivitas,Kulkas,Malam,2.2,0.6
+Bermain Komputer,TV,Pagi,8.0,1.59
+Tidak Ada Aktivitas,Mesin Cuci,Sore,7.8,4.64
+Memasak,AC,Sore,5.4,4.23
+Memasak,Kulkas,Malam,2.0,0.6
+Tidak Ada Aktivitas,AC,Malam,5.6,4.47
+Menonton TV,AC,Siang,1.0,0.88
+Menyetrika,Komputer,Sore,0.7,0.31
+Memasak,Komputer,Pagi,2.4,0.91
+Tidak Ada Aktivitas,Mesin Cuci,Malam,4.0,2.49
+Tidak Ada Aktivitas,TV,Pagi,7.0,1.46
+Mencuci,AC,Pagi,6.0,4.83
+Menyetrika,Kulkas,Sore,6.1,1.82
+Bermain Komputer,Kompor Listrik,Sore,3.7,3.28
+Menonton TV,AC,Malam,3.1,2.46
+Bermain Komputer,AC,Sore,3.3,2.69
+Menyetrika,Mesin Cuci,Sore,7.9,4.83
+Menyetrika,TV,Sore,0.8,0.24
+Menyetrika,Kompor Listrik,Pagi,7.0,6.28
+Bermain Komputer,Komputer,Malam,4.8,1.86
+Menyetrika,Komputer,Siang,3.8,1.53
+Tidak Ada Aktivitas,Kulkas,Pagi,5.9,1.68
+Bermain Komputer,Kompor Listrik,Sore,4.2,3.8
+Menyetrika,Komputer,Pagi,7.1,2.83
+Tidak Ada Aktivitas,Kulkas,Sore,7.3,2.17
+Mencuci,TV,Sore,3.7,0.66
+Menyetrika,Kulkas,Pagi,2.6,0.81
+Bermain Komputer,Komputer,Malam,4.9,1.93
+Memasak,Mesin Cuci,Sore,7.3,4.32
+Menyetrika,Mesin Cuci,Malam,2.1,1.12
+Memasak,Mesin Cuci,Siang,5.2,3.12
+Tidak Ada Aktivitas,Komputer,Sore,5.2,2.17
+Mencuci,Mesin Cuci,Malam,6.0,3.68
+Menonton TV,Kompor Listrik,Malam,1.5,1.33
+Mencuci,TV,Siang,5.9,1.15
+Menyetrika,Kulkas,Malam,7.3,2.21
+Memasak,Kulkas,Malam,1.8,0.49
+Memasak,Komputer,Siang,2.3,0.94
+Bermain Komputer,Mesin Cuci,Sore,7.8,4.72
+Memasak,Mesin Cuci,Malam,1.9,1.2
+Bermain Komputer,AC,Malam,6.9,5.51
+Tidak Ada Aktivitas,TV,Malam,4.2,0.83
+Menonton TV,Kompor Listrik,Pagi,2.4,2.12
+Menyetrika,Kulkas,Siang,7.0,2.06
+Bermain Komputer,AC,Pagi,3.8,3.03
+Menonton TV,AC,Siang,4.4,3.54
+Memasak,Komputer,Sore,3.2,1.33
+Memasak,Kulkas,Sore,4.9,1.43
+Menonton TV,Komputer,Malam,1.7,0.75
+Memasak,Kompor Listrik,Siang,3.4,3.05
+Tidak Ada Aktivitas,AC,Sore,7.8,6.24
+Tidak Ada Aktivitas,AC,Siang,2.4,1.88
+Menonton TV,TV,Sore,5.4,0.96
+Bermain Komputer,Kompor Listrik,Pagi,2.9,2.65
+Bermain Komputer,AC,Sore,6.3,5.08
+Menonton TV,Kompor Listrik,Pagi,1.5,1.34
+Bermain Komputer,Kulkas,Sore,7.8,2.34
+Bermain Komputer,Mesin Cuci,Malam,3.9,2.37
+Tidak Ada Aktivitas,AC,Pagi,2.3,1.76
+Bermain Komputer,TV,Sore,1.1,0.19
+Mencuci,Kulkas,Malam,1.8,0.58
+Menyetrika,Kompor Listrik,Pagi,4.4,3.9
+Memasak,Komputer,Malam,3.0,1.21
+Mencuci,Kulkas,Siang,6.7,1.94
+Bermain Komputer,AC,Siang,3.7,2.98
+Tidak Ada Aktivitas,Kompor Listrik,Pagi,2.4,2.16
+Menonton TV,Mesin Cuci,Sore,5.1,2.98
+Bermain Komputer,Kulkas,Pagi,5.8,1.8
+Tidak Ada Aktivitas,AC,Malam,1.8,1.4
+Menyetrika,TV,Sore,1.8,0.32
+Bermain Komputer,Komputer,Siang,0.8,0.33
+Menonton TV,Kompor Listrik,Sore,6.0,5.46
+Tidak Ada Aktivitas,Kulkas,Siang,5.5,1.6
+Tidak Ada Aktivitas,Kulkas,Sore,4.1,1.23
+Tidak Ada Aktivitas,Mesin Cuci,Sore,6.8,4.1
+Menyetrika,Mesin Cuci,Sore,6.5,3.93
+Bermain Komputer,TV,Malam,4.9,0.99
+Menyetrika,Komputer,Malam,7.0,2.78
+Memasak,TV,Pagi,2.0,0.36
+Memasak,AC,Pagi,1.3,1.04
+Bermain Komputer,AC,Siang,2.5,1.95
+Menyetrika,TV,Malam,0.9,0.03
